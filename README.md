@@ -2,7 +2,7 @@
 ![Untitled_Artwork (3)](https://github.com/user-attachments/assets/5f5b2dc7-597a-49ef-9402-b799eaf62084)
 
 
-My name is Erin Bryant and I am currently a student a University of Houston. I enjoy coding puzzles, video games, and anything artsy! Thank you for visiting!
+My name is Erin Bryant and I am currently a student at University of Houston. I enjoy coding puzzles, video games, and anything artsy! Thank you for visiting!
 <!--
 **erinbryant/erinbryant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
